@@ -1,2 +1,2 @@
 var a=3;
-console.log("A=1B");
+console.log("A=1kB");
