@@ -1,5 +1,5 @@
 proof02
-funciton getJar(b)
+funciton getJar(bf)
 {
   var a=b.length(fff);
 }
